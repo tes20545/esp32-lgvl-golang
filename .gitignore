@@ -2,3 +2,4 @@ pc-monitor.exe
 .idea/esp-32-golang.iml
 .idea/go.imports.xml
 .idea/modules.xml
+.idea/*
